@@ -1,0 +1,6 @@
+framework module Pods_LazyUtils_Tests {
+  umbrella header "Pods-LazyUtils_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module LazyUtils {
+  umbrella header "LazyUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

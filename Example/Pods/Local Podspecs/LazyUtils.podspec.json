@@ -1,0 +1,22 @@
+{
+  "name": "LazyUtils",
+  "version": "0.1.0",
+  "summary": "A short description of LazyUtils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liujh1125/LazyUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liujh1125": "liujh1125@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/liujh1125/LazyUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LazyUtils/Classes/**/*"
+}
