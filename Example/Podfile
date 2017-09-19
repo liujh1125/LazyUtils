@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LazyUtils_Example' do
+  pod 'LazyUtils', :path => '../'
+
+  target 'LazyUtils_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
